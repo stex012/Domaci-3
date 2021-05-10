@@ -1,0 +1,7 @@
+C:\Users\stefa\source\repos\niz3\niz3\bin\Debug\niz3.exe.config
+C:\Users\stefa\source\repos\niz3\niz3\bin\Debug\niz3.exe
+C:\Users\stefa\source\repos\niz3\niz3\bin\Debug\niz3.pdb
+C:\Users\stefa\source\repos\niz3\niz3\obj\Debug\niz3.csprojAssemblyReference.cache
+C:\Users\stefa\source\repos\niz3\niz3\obj\Debug\niz3.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\niz3\niz3\obj\Debug\niz3.exe
+C:\Users\stefa\source\repos\niz3\niz3\obj\Debug\niz3.pdb
